@@ -1,0 +1,18 @@
+.title{
+    color:rgb(0, 0, 0);
+    margin-left: 35%;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: inherit;
+    flex-wrap: wrap;
+    padding-left: 2%;
+}
+.content{
+    margin-left: 40%;
+    
+
+}
+.Aboutme{
+    margin-right: 53%;
+    margin-bottom: 5%;
+  
